@@ -6,3 +6,4 @@ adversarial examples.
 
 Here is presented a paper for an introductory approach to this topic, and a possible way to build a defence for adversarial examples.
 
+link for prezi presentation: https://prezi.com/view/ubIs71IKizhVBGvNP7hh/
